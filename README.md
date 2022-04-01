@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bar0-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bar0-dev" /> </p>
 
-- 🔭 I’m currently working on [Langi](https://github.com/Bar0-dev/Langi)
+- 🔭 I’m currently working on [Langi](https://github.com/Bar0-dev/Langi) and [wiktionary-translations](https://github.com/Bar0-dev/wiktionary-translations)
 
-- 🌱 I’m currently learning **Web3 technologies and their Front-end side**
+- 🌱 I’m currently learning **Web3 technologies, writing npm packages and creating APIs**
 
-- 👯 I’m looking to collaborate on **Web3 JavaScript projects**
+- 👯 I’m looking to collaborate on **Web3 JavaScript project**
 
 - 🤝 I’m looking for help with [wiktionary-translations npm package](https://github.com/Bar0-dev/wiktionary-translations)
 
