@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **React, JavaScript, material-design**
 
+- 📃 Check out my recent projects [Rarity viewer for NFTs](https://www.crodogesrarity.com/search)
+
 - 📫 How to reach me **bartoszpietrzak.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
