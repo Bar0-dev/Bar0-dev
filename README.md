@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, three.js, TypeScript**
 
-- 👯 I’m looking to collaborate on **Web3 project and**
+- 👯 I’m looking to collaborate on **Web3 projects**
 
 - 🤝 I’m looking for help with [Langi](https://github.com/Bar0-dev/Langi)
 
