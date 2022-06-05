@@ -13,6 +13,8 @@
 
 - 🤝 I’m looking for help with [Langi](https://github.com/Bar0-dev/Langi)
 
+- 📄 My recent projects: [NFT viewer](https://www.crodogesrarity.com/), [Langi flashard creator](https://langi.netlify.app/)
+
 - 💬 Ask me about **JS, React, Python, electronics**
 
 - 📫 How to reach me **bartoszpietrzak.dev@gmail.com**
