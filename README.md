@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **FreeRTOS, QP/C embedded**
 
-- 👯 I’m looking to collaborate on **rtos, event based embedded os**
-
-- 💬 Ask me about **embedded C, robotics, electronics**
+- 💬 Ask me about **embedded C, robotics, electronics, JavaScript**
 
 - 📫 How to reach me **bartoszpietrzak.dev@gmail.com**
 
